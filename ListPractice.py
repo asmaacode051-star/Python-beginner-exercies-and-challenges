@@ -5,6 +5,7 @@ print (friends)
 # Second
 Countries = ["Canda","Iraq","Germany","China"] 
 Countries [1] = "Egypt"
+Countries.append("Japan")
 print (Countries)
 
 # Third
